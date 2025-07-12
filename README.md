@@ -1,4 +1,4 @@
-# Player Re-Identification System
+# Football Player Re-Identification with YOLO
 
 ## 🎯 Project Overview
 
@@ -45,8 +45,8 @@ player-reid-liat/
 
 ```bash
 # If using Git
-git clone <repository-url>
-cd player-reid-liat
+git clone https://github.com/SENTHAMIL-ARASU/-Football-Player-Re-Identification-with-YOLO.git
+cd -Football-Player-Re-Identification-with-YOLO
 
 # Or download and extract the ZIP file
 ```
@@ -204,4 +204,4 @@ For technical support or questions about this implementation, please refer to th
 
 ---
 
-**Note**: This system is designed to work with the provided YOLO model and video format. For different inputs, you may need to adjust the configuration parameters. 
+**Note**: This system is designed to work with the provided YOLO model and video format. For different inputs, you may need to adjust the configuration parameters.
